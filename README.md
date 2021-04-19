@@ -1,4 +1,4 @@
-#Speaker Recognition using LSTM
+# Speaker Recognition using LSTM
 This repository contains code for Speaker Recognition using LSTM for the course CS-412: Aritificial Intelligence.
 
 The dataset used: https://www.kaggle.com/kongaevans/speaker-recognition-dataset. The voice samples of the authors was also added to the final dataset.
